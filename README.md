@@ -2,7 +2,9 @@
 
 ### Prerequisite
 tensorflow==2.4
+
 numpy==1.18.5
+
 opencv-python==4.5.1
 
 ## Usage
